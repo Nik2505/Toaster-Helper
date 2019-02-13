@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToasterLibrary</string>
+    <string name="content_desc_toast">Toast Image</string>
+</resources>
